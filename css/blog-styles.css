@@ -1,0 +1,41 @@
+body {
+	font-family: Arial, sans-serif;
+	line-height: 1.6;
+	margin: 0;
+	padding: 0;
+  }
+  
+  header {
+	background: #f4f4f4;
+	padding: 20px;
+	text-align: center;
+  }
+  
+  .blog-list article {
+	margin: 20px;
+	padding: 10px;
+	border-bottom: 1px solid #ccc;
+  }
+  
+  .blog-list h2 a {
+	color: #333;
+	text-decoration: none;
+  }
+  
+  .blog-list h2 a:hover {
+	color: #007BFF;
+  }
+  
+  article p {
+	color: #555;
+  }
+  
+  a {
+	color: #007BFF;
+	text-decoration: none;
+  }
+  
+  a:hover {
+	text-decoration: underline;
+  }
+  

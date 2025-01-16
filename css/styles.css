@@ -74,10 +74,11 @@ h3 {
 	}
 
 	.top-image, .bottom-image {
-		position: static;
-		margin: 10px auto;
+		position: relative;
+		margin: 20px auto;
 		display: block;
 		height: 100px;
+		clear: both;
 	}
 
 	.pc-image {

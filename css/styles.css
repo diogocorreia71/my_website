@@ -69,16 +69,12 @@ h3 {
 /* Responsive styles for smaller screens */
 @media (max-width: 768px) {
 	.top-container{
-		padding-top: 50px;
+		padding-top: 20px;
 		text-align: center;
 	}
 
 	.top-image, .bottom-image {
-		position: relative;
-		margin: 20px auto;
-		display: block;
-		height: 100px;
-		clear: both;
+		display: none;
 	}
 
 	.pc-image {
